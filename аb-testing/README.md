@@ -8,8 +8,8 @@
  * **ab_analysis.ipynb** 
    * online store events funnel воронка событий интернет-магазина <sub>/ воронка событий интернет-магазина funnel</sub>
    * A/B-test results evaluation (the impact of the upgraded recommendation system) — z-test <sub>/ оценка результатов A/B-теста (эффекта от внедрения улучшенной рекомендательной системы) по z-критерию </sub>
-   * participants selection evaluation <sub>/ оценка отбора участников </sub>
-   * division into groups evaluation <sub>/ оценка разделения участников на группы </sub>
+   * evaluation of the participants<sub>/ оценка отбора участников </sub>
+   * evaluation of the division into groups<sub>/ оценка разделения участников на группы </sub>
 # Hypothesis testing / Провека гипотез 
  * Mann–Whitney U test from the scipy library <sub>/ критерий Манна-Уитни (библиотека scipy) </sub>
  * z-test <sub>/ z-критерий </sub>
