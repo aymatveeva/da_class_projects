@@ -3,7 +3,7 @@
    * ICE and RICE scoring of the hypothesis <sub>/ приоритизация гипотез по ICE и RICE</sub>
    * A/B-test results evaluation by conversion rate and averange bill — Mann–Whitney U test <sub>/ оценка результатов A/B-теста по консверсии и среднему чеку — критерий Манна-Уитни</sub>
  * **ab_events_funnel.ipynb** 
-   * online store events funnel воронка событий интернет-магазина <sub>/ воронка событий интернет-магазина funnel</sub>
+   * online store events funnel воронка событий интернет-магазина <sub>/ воронка событий интернет-магазина</sub>
    * A/B-test results evaluation (the impact font change had on the customer behavior) — z-test <sub>/ оценка результатов A/B-теста (влияния изменения шрифта на поведение клиентов) по z-критерию </sub>
  * **ab_analysis.ipynb** 
    * online store events funnel <sub>/ воронка событий интернет-магазина </sub>
