@@ -5,8 +5,8 @@
    + LTV
    + CAC
    + ROMI
-* **statistical_analysis.ipynb** — detection of the key features making a computer game successful
 * **pre-processing_visualization.ipynb** — Moscow catering market study aimed to identify the best capacity and placement for a new cafe 
+* **statistical_analysis.ipynb** — detection of the key features making a computer game successful
 ---
 * **business_metrics.ipynb** — выявление невыгодных источников трафика на Яндекс.Афише на основе информации о посещениях и покупках на сайте, расходов на трафик
    + DAU, WAU, MAU
@@ -14,8 +14,8 @@
    + LTV
    + CAC
    + ROMI
-* **statistical_analysis.ipynb** — выявление признаков, определяющих успех компьютерной игры 
 * **pre-processing_visualization.ipynb** — исследование рынка общественного питания Москвы c целью определения лучшего размещения и формата для нового кафе
+* **statistical_analysis.ipynb** — выявление признаков, определяющих успех компьютерной игры 
 # Hypothesis testing / Проверка гипотез 
 * t-test (ttest_ind, the scipy library)
 ---
