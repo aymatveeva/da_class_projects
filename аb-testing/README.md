@@ -1,13 +1,13 @@
 # Projects / Работы
  * **ab_results.ipynb**
    * ICE and RICE scoring of the hypothesis
-   * A/B-test results evaluation by conversion rate and averange bill — Mann–Whitney U test 
+   * A/B test results evaluation based on the conversion rate and average bill dynamics — Mann–Whitney U test 
  * **ab_events_funnel.ipynb** 
    * online store events funnel
-   * A/B-test results evaluation (the impact font change had on the customer behavior) — z-test
+   * A/B test results evaluation (the impact a font change had on the customer behavior) — z-test
  * **ab_analysis.ipynb** 
    * online store events funnel 
-   * A/B-test results evaluation (the impact of the upgraded recommendation system) — z-test
+   * A/B test results analysis (the impact of the upgraded recommendation system) — z-test
    * evaluation of the participants selection
    * evaluation of the division into groups 
  ---
